@@ -1,3 +1,8 @@
+2019-09024  Chris Charabaruk <chris.charabaruk@outlook.com>
+
+	* Headers/GNUstepBase/GSConfig.h.in: Fix for building with MSYS2
+	mingw64 Windows headers.
+
 2019-09-21  Richard Frith-Macdonald <rfm@gnu.org>
 
 	* Source/GSTLS.m: Re-order code to avoid setting session priority

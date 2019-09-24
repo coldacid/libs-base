@@ -294,7 +294,7 @@ typedef	struct {
 #endif
 
 #if defined(_WIN32)
-#define BOOL WinBOOL
+#define BOOL WINBOOL
 #define __OBJC_BOOL 1
 #include <w32api.h>
 #ifndef _WIN32_WINNT
